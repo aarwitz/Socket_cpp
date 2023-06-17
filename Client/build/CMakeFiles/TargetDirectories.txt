@@ -1,0 +1,7 @@
+/home/aaron/Socket_cpp/Client/build/CMakeFiles/client.dir
+/home/aaron/Socket_cpp/Client/build/CMakeFiles/edit_cache.dir
+/home/aaron/Socket_cpp/Client/build/CMakeFiles/rebuild_cache.dir
+/home/aaron/Socket_cpp/Client/build/CMakeFiles/list_install_components.dir
+/home/aaron/Socket_cpp/Client/build/CMakeFiles/install.dir
+/home/aaron/Socket_cpp/Client/build/CMakeFiles/install/local.dir
+/home/aaron/Socket_cpp/Client/build/CMakeFiles/install/strip.dir

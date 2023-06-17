@@ -1,5 +1,5 @@
 
-#include "../socket.hpp"
+#include "socket.hpp"
 
 /*
 Compile with:
@@ -63,10 +63,6 @@ void Socket::socket_send(std::string& pc_text)
 	if (sendRes == -1)
 	{
 	 std::cout << "Could not send to server! Whoops!\r\n";
-	}
-	else
-	{
-	 std::cout << "Patmax output sent to Windows PC" << std::endl;
 	}
 }
 

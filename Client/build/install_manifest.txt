@@ -1,0 +1,2 @@
+/usr/local/lib/libclient.a
+/usr/local/include/socket.hpp

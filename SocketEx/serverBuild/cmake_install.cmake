@@ -1,4 +1,4 @@
-# Install script for directory: /home/aaron/SocketEx/serverSrc
+# Install script for directory: /home/aaron/Socket_cpp/SocketEx/serverSrc
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/aaron/SocketEx/serverBuild/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/aaron/Socket_cpp/SocketEx/serverBuild/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
