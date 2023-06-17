@@ -1,0 +1,3 @@
+/home/aaron/SocketEx/serverBuild/CMakeFiles/serverEx.dir
+/home/aaron/SocketEx/serverBuild/CMakeFiles/edit_cache.dir
+/home/aaron/SocketEx/serverBuild/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/serverEx.dir/serverEx.cpp.o -o serverEx  -lserver 

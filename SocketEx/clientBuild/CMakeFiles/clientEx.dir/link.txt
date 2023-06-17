@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/clientEx.dir/clientEx.cpp.o -o clientEx  -lclient 
