@@ -1,5 +1,5 @@
 # Socket_cpp
 
-Below shows an example implementing the socket library
+Below is a basic example of the socket library being used
 
 <img src="https://github.com/aarwitz/Socket_cpp/blob/master/Socket.gif" />
